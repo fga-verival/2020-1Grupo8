@@ -11,8 +11,8 @@ public class TesteRendimentoBruto {
 	@SuppressWarnings("deprecation")
 	@Test
 	public void testeRendimentoBruto() {
-		Calculadora calculadora = new Calculadora(60,1000.00f,8.5f,22.5f);
-		assertEquals(13.97f, calculadora.getRendimentoBruto(), 0.01f);
+		Calculadora calculadora = new Calculadora(240,3000.00f,9.0f,20.0f);
+		assertEquals(14.97f, calculadora.getRendimentoBruto(), 0.01f);
 	}
 
 }
