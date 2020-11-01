@@ -27,8 +27,8 @@ public class Calculadora{
     }
     
     public float getImpostoRenda() {
-//        return this.getRendimentoBruto() * this.aliquota;
-    	return 35.51f;
+	    return this.getRendimentoBruto() * this.aliquota;
+    	
     }
     
     public float getRendimentoLiquido() {
