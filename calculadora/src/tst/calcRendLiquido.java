@@ -23,5 +23,5 @@ public class calcRendLiquido {
 		//System.out.printf("%.4f", calc.getRendimentoLiquido());
 		assertEquals(2.0384f, calc.getRendimentoLiquido(), 0);
 	}
-
+	
 }

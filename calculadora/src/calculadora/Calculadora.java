@@ -31,9 +31,10 @@ public class Calculadora{
     }
     
     public float getRendimentoLiquido() {  	
-          
-        return 1.0829f; 
-
+        float capitalFinal = this.getRendimentoBruto() - this.getImpostoRenda(); 
+        capitalFinal += this.aplicacaoInicial;
+        
+        return Math.round(((capitalFinal/this.aplicacaoInicial * 100) - 100) * 10000)/10000f;  
     }
 
 	public Integer getQtdDias() {
