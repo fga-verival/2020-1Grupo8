@@ -17,4 +17,11 @@ public class calcRendLiquido {
 		assertEquals(1.0829f, calc.getRendimentoLiquido(), 0);
 	}
 
+	@Test
+	public void rendimentoLiquido2() {
+		calc = new Calculadora(120, 500.00f, 8.0f, 22.5f);
+		//System.out.printf("%.4f", calc.getRendimentoLiquido());
+		assertEquals(2.0384f, calc.getRendimentoLiquido(), 0);
+	}
+
 }
