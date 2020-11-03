@@ -31,11 +31,11 @@ public class Calculadora{
     	
     }
     
-    public float getRendimentoLiquido() {
+    public float getRendimentoLiquido() {  	
         float capitalFinal = this.getRendimentoBruto() - this.getImpostoRenda(); 
         capitalFinal += this.aplicacaoInicial;
-    
-        return (capitalFinal/this.aplicacaoInicial * 100) - 100;  
+        
+        return Math.round(((capitalFinal/this.aplicacaoInicial * 100) - 100) * 10000)/10000f;  
     }
 
 	public Integer getQtdDias() {
