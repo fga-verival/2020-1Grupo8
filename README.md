@@ -3,18 +3,13 @@ Trabalhos do Grupo 8 da Disciplina de Testes de Software (Verificação e Valida
 
 
 ## Equipe
-
-Bruna Almeida Santos - 17/0100626
-
-Damarcones Porto - 15/0122187
-
-Francisco Heronildo - 16/0006210
-
-Guilherme Leal - 15/0128312
-
-João Silva - 16/0127891
-
-Kalebe Lopes - 16/0010900
-
-Luciano dos Santos - 16/0127891
+| Nome | Matrícula | Contribuição |
+|------|-----------|--------------|
+|Bruna Almeida Santos | 17/0100626 |100%|
+|Damarcones Porto | 15/0122187 |100%|
+|Francisco Heronildo | 16/0006210 |100%|
+|Guilherme Leal | 15/0128312 |100%|
+|João Silva | 16/0127891 |100%|
+|Kalebe Lopes | 16/0010900 |100%|
+|Luciano dos Santos | 16/0127891 |100%|
 
