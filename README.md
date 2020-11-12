@@ -12,4 +12,5 @@ Trabalhos do Grupo 8 da Disciplina de Testes de Software (Verificação e Valida
 |João Silva | 16/0127891 |100%|
 |Kalebe Lopes | 16/0010900 |100%|
 |Luciano dos Santos | 16/0127891 |100%|
+|Murilo Schiler| 15/0142536 | 100%|
 
